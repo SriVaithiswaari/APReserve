@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AirplaneSeatReservationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-25T07:01:42" hostname="MGC12FT1F4MD6N.chennaigtbc.ford.com" time="0.029">
+  <properties/>
+  <testcase name="Fill_passengers_in_row_orderof_Aisle_Window_Middle()" classname="AirplaneSeatReservationTest" time="0.02"/>
+  <testcase name="when_specific_listOfSeatMatrices_is_passed_check_00cell_of_firstmatrix_is_Aisle()" classname="AirplaneSeatReservationTest" time="0.001"/>
+  <testcase name="when_listOfSeatMatrices_is_passed_return_AirplaneCapacity()" classname="AirplaneSeatReservationTest" time="0.003"/>
+  <testcase name="when_specific_listOfSeatMatrices_is_passed_check_01cell_of_secondmatrix_is_Middle()" classname="AirplaneSeatReservationTest" time="0.001"/>
+  <testcase name="when_specific_listOfSeatMatrices_is_passed_check_00cell_of_Zerothmatrix_is_Window()" classname="AirplaneSeatReservationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
